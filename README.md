@@ -100,32 +100,30 @@ prinsip       : belajar sambil membangun, jujur soal level kemampuan
 
 ## `~/projects`
 
-> Ganti bagian bertanda `ISI_...` dengan proyek asli Anda. Hapus kartu yang tidak dipakai.
-
 <div align="center">
 
-<a href="https://github.com/LeonardoDavinci67/ISI_NAMA_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoDavinci67&repo=ISI_NAMA_REPO_1&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="Proyek 1" />
+<a href="https://github.com/LeonardoDavinci67/FlashSoft">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoDavinci67&repo=FlashSoft&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="FlashSoft" />
 </a>
-<a href="https://github.com/LeonardoDavinci67/ISI_NAMA_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoDavinci67&repo=ISI_NAMA_REPO_2&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="Proyek 2" />
+<a href="https://github.com/LeonardoDavinci67/Do-you-know-me-Let-me-tell-you">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoDavinci67&repo=Do-you-know-me-Let-me-tell-you&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="Do-you-know-me-Let-me-tell-you" />
 </a>
 
-<a href="https://github.com/LeonardoDavinci67/ISI_NAMA_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoDavinci67&repo=ISI_NAMA_REPO_3&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="Proyek 3" />
+<a href="https://github.com/LeonardoDavinci67/studyclub26">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoDavinci67&repo=studyclub26&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="studyclub26" />
 </a>
-<a href="https://github.com/LeonardoDavinci67/ISI_NAMA_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoDavinci67&repo=ISI_NAMA_REPO_4&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="Proyek 4" />
+<a href="https://github.com/parellsywl-sys/Artikel-Ilmiah-Naeyla-Mahajjra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parellsywl-sys&repo=Artikel-Ilmiah-Naeyla-Mahajjra&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="Artikel-Ilmiah-Naeyla-Mahajjra" />
 </a>
 
 </div>
 
-Contoh format deskripsi manual jika ingin menggantikan kartu:
-
-| Proyek | Deskripsi | Stack |
-| :-- | :-- | :-- |
-| [`ISI_NAMA_PROYEK_WEB`](https://github.com/LeonardoDavinci67/ISI_NAMA_PROYEK_WEB) | Satu kalimat tentang apa yang dibuat | `HTML` `CSS` `JavaScript` |
-| [`ISI_NAMA_PROYEK_MOBILE`](https://github.com/LeonardoDavinci67/ISI_NAMA_PROYEK_MOBILE) | Satu kalimat tentang apa yang dibuat | `Flutter` `Dart` |
+```text
+FlashSoft                          HTML
+Do-you-know-me-Let-me-tell-you     HTML
+studyclub26                        -
+Artikel-Ilmiah-Naeyla-Mahajjra     HTML   (repo kolaborasi, pemilik: parellsywl-sys)
+```
 
 ---
 
@@ -145,10 +143,7 @@ Contoh format deskripsi manual jika ingin menggantikan kartu:
 
 <p>
   <a href="https://github.com/LeonardoDavinci67"><img src="https://img.shields.io/badge/GitHub-LeonardoDavinci67-3B4252?style=for-the-badge&logo=github&logoColor=88C0D0" alt="GitHub" /></a>
-  <!-- Hapus tanda komentar dan isi bila ingin menampilkan kontak lain
-  <a href="mailto:ISI_EMAIL"><img src="https://img.shields.io/badge/Email-3B4252?style=for-the-badge&logo=gmail&logoColor=88C0D0" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ISI_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-3B4252?style=for-the-badge&logo=linkedin&logoColor=88C0D0" alt="LinkedIn" /></a>
-  -->
+  
 </p>
 
 <div align="center">
