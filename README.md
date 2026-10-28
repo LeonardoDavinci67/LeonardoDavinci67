@@ -1,40 +1,46 @@
 <!--
-  LEONARDO DAVINCI — GITHUB PROFILE README
-  Theme: Nordic Dark / Terminal
-  Replace any project descriptions or links if your repositories change.
+  LeonardoDavinci67 | Nordic Dark Profile
+  Palette:
+  Polar Night : #2E3440
+  Dark Night  : #242933
+  Frost       : #88C0D0
+  Sage        : #A3BE8C
+  Snow        : #ECEFF4
+  Custom banner: assets/nordic-banner.png
 -->
 <div align="center">
-<img src="assets/nordic-banner.png" width="100%" alt="Leonardo Davinci — Nordic Terminal Banner" />
+<img src="assets/nordic-banner.png" width="100%" alt="Nordic dark banner" />
 <br/>
-<a href="https://github.com/LeonardoDavinci67">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=8FBCBB&center=true&vCenter=true&width=600&lines=Web+Developer+in+Progress;Linux+Enthusiast;Cybersecurity+Learner;Learning+%2F+Building+%2F+Exploring" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1200&color=88C0D0&center=true&vCenter=true&width=500&lines=currently+learning+Flutter;building+things+with+Dart;Linux+is+part+of+the+fun;figuring+things+out%2C+one+step+at+a+time" alt="Typing animation" />
 <br/>
 </div>
 
 ⸻
 
-> whoami
+~/about-me
 
-Hi, I’m Leonardo Davinci 👋
+hey, i’m Leonardo 👋
 
-I’m a beginner developer who enjoys building things for the web, exploring Linux, and learning how technology works behind the scenes.
+i’m currently getting into Flutter and Dart, mostly figuring things out by learning the basics and trying to build stuff.
 
-I’m not an expert — just curious, willing to learn, and always looking for ways to improve.
+i’ve worked with HTML, CSS, and JavaScript, and outside of coding i like messing around with Linux and exploring cybersecurity tools.
 
-* 🌐 Web Development: HTML, CSS, JavaScript
-* 📱 App Development: Learning Flutter
-* 🐧 Operating Systems: Linux enthusiast
-* 🔐 Cybersecurity: Learning security fundamentals and exploring tools in authorized environments
-* 🌱 Currently: Building projects and improving my fundamentals
+still a beginner at some of this, but that’s pretty much the point.
 
-curiosity > comfort
+* 📱 currently learning Flutter
+* 🎨 web stuff: HTML, CSS & JavaScript
+* 🐧 Linux enthusiast
+* 🔐 learning cybersecurity, one tool at a time
+* 🛠️ usually experimenting with something
+
+$ echo $MINDSET
+learn -> build -> break -> understand -> repeat
 
 ⸻
 
-> tech-stack
+~/stack
 
-Web Development
+what i’ve worked with
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -42,79 +48,96 @@ Web Development
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-Currently Learning
+currently learning
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-Beginner-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter beginner" />
-  <img src="https://img.shields.io/badge/Dart-Learning-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart learning" />
+  <img src="https://img.shields.io/badge/Flutter-learning-5E81AC?style=flat-square&logo=flutter&logoColor=white" alt="Flutter — learning" />
+  <img src="https://img.shields.io/badge/Dart-learning-88C0D0?style=flat-square&logo=dart&logoColor=2E3440" alt="Dart — learning" />
 </p>
 
-Systems & Security Interests
+stuff i like exploring
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-Exploring-333333?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Terminal-Learning-2E3440?style=flat-square&logo=gnubash&logoColor=A3BE8C" alt="Terminal" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Learning-3B4252?style=flat-square&logo=kalilinux&logoColor=88C0D0" alt="Cybersecurity learning" />
+  <img src="https://img.shields.io/badge/Linux-2E3440?style=flat-square&logo=linux&logoColor=A3BE8C" alt="Linux" />
+  <img src="https://img.shields.io/badge/Terminal-242933?style=flat-square&logo=gnubash&logoColor=88C0D0" alt="Terminal" />
+  <img src="https://img.shields.io/badge/Cybersecurity-learning-3B4252?style=flat-square&logo=kalilinux&logoColor=88C0D0" alt="Cybersecurity — learning" />
 </p>
 
 ⸻
 
-> featured-projects
+~/projects
+
+a few things i’ve worked on so far.
 
 🌐 Do-you-know-me-Let-me-tell-you
 
-A personal website project built with HTML, CSS, and JavaScript.
+a personal website project built with HTML. one of my steps into making things for the web.
+
+HTML · Web
 
 💻 FlashSoft
 
-An HTML-based web template project. Exploring layout, styling, and front-end development through practical work.
+an HTML-based web template i’m keeping in my collection of web projects.
+
+HTML · Web template
 
 📚 studyclub26
 
-A repository on my profile. Check it out to see what I’m working on.
+another repository on my profile. check it out to see what’s inside.
+
+→ browse my repositories
 
 ⸻
 
-> github-stats
+~/github-stats
 
 <div align="center">
 <a href="https://github.com/LeonardoDavinci67">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoDavinci67&show_icons=true&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=A3BE8C&text_color=ECEFF4&ring_color=88C0D0" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoDavinci67&show_icons=true&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=A3BE8C&text_color=ECEFF4&ring_color=88C0D0" alt="GitHub stats" />
 </a>
 <a href="https://github.com/LeonardoDavinci67">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDavinci67&layout=compact&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=ECEFF4" alt="Most used languages in public repositories" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDavinci67&layout=compact&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=ECEFF4" alt="Most used languages" />
 </a>
 <br/>
 <img src="https://streak-stats.demolab.com?user=LeonardoDavinci67&hide_border=true&background=2E3440&ring=88C0D0&fire=D08770&currStreakLabel=A3BE8C&sideLabels=ECEFF4&dates=9AA4B2&currStreakNum=ECEFF4&sideNums=ECEFF4" alt="GitHub contribution streak" width="70%" />
 </div>
 
-Note: Statistics depend on the availability of the external services. Language statistics reflect detectable code in repositories, not overall proficiency. Private contributions may not be included.
+Stats are generated by external services. Language stats reflect code in detected repositories, not how well I know each language.
 
 ⸻
 
-> current-focus
+~/now
 
-* [ ]	Improve HTML, CSS, and JavaScript fundamentals
-* [ ]	Build more complete and responsive websites
-* [ ]	Learn Flutter and Dart step by step
-* [ ]	Explore Linux and command-line tools
-* [ ]	Study networking and cybersecurity fundamentals
-* [ ]	Practice security tools only in authorized labs and environments
+things i’m working on or want to get better at.
+
+* [ ]	get more comfortable with Flutter and Dart
+* [ ]	build a few small mobile apps from scratch
+* [ ]	understand widgets, layouts, navigation, and state
+* [ ]	keep improving my HTML, CSS, and JavaScript
+* [ ]	explore Linux and get more comfortable with the terminal
+* [ ]	learn networking and cybersecurity fundamentals
+* [ ]	practice security tools in authorized environments
 
 ⸻
 
-> beyond_the_code
+~/outside-the-code
 
-OS        : Linux enthusiast
-Interests : Web development, Linux, cybersecurity
-Mindset   : Learn by building
-Status    : Always improving...
+i like Linux, dark themes, clean interfaces, and figuring out how things work.
+
+currently somewhere between learning something new and breaking something while trying to understand it.
+
 <div align="center">
+┌────────────────────────────────┐
+│  status : still learning       │
+│  focus  : flutter / dart       │
+│  system : linux                │
+│  mood   : one more experiment  │
+└────────────────────────────────┘
 
-// thanks for stopping by
+thanks for stopping by.
 
-Learn something. Build something. Repeat.
+GitHub · Repositories
 
-Code / Learn / Explore / Grow
+built slowly, learned along the way.
 
 </div>
