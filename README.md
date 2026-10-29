@@ -105,6 +105,7 @@ principle: learn by building, honest about my skill level
 <a href="https://github.com/LeonardoDavinci67/FlashSoft">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoDavinci67&repo=FlashSoft&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="FlashSoft" />
 </a>
+
 <a href="https://github.com/LeonardoDavinci67/Do-you-know-me-Let-me-tell-you">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoDavinci67&repo=Do-you-know-me-Let-me-tell-you&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="Do-you-know-me-Let-me-tell-you" />
 </a>
