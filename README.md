@@ -98,32 +98,6 @@ principle: learn by building, honest about my skill level
 
 ---
 
-## `~/projects`
-
-<div align="center">
-
-<a href="https://github.com/LeonardoDavinci67/FlashSoft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoDavinci67&repo=FlashSoft&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="FlashSoft" />
-</a>
-
-<a href="https://github.com/LeonardoDavinci67/Do-you-know-me-Let-me-tell-you">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoDavinci67&repo=Do-you-know-me-Let-me-tell-you&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="Do-you-know-me-Let-me-tell-you" />
-</a>
-
-<a href="https://github.com/parellsywl-sys/Artikel-Ilmiah-Naeyla-Mahajjra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parellsywl-sys&repo=Artikel-Ilmiah-Naeyla-Mahajjra&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="Artikel-Ilmiah-Naeyla-Mahajjra" />
-</a>
-
-</div>
-
-```text
-FlashSoft                          HTML
-Do-you-know-me-Let-me-tell-you     HTML
-studyclub26                        -
-Artikel-Ilmiah-Naeyla-Mahajjra     HTML   (collaborative repo, owner: parellsywl-sys)
-```
-
----
 
 ## `~/learning-log`
 
