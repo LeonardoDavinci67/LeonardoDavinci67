@@ -87,8 +87,7 @@ principle: learn by building, honest about my skill level
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeonardoDavinci67&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDavinci67&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="Top Languages" />
+
 
 <br/>
 
