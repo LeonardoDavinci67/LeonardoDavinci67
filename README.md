@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- ═════════ CUSTOM BANNER ═════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E3440,50:3B4252,100:88C0D0&text=Leonardo Davinci&fontColor=ECEFF4&fontSize=48&fontAlignY=38&desc=web%20%E2%80%A2%20mobile%20%E2%80%A2%20linux%20%E2%80%A2%20security%20(learning)&descColor=D8DEE9&descSize=18&descAlignY=58" alt="LeonardoDavinci67 banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E3440,50:3B4252,100:88C0D0&text="Leonardo Davinci"&fontColor=ECEFF4&fontSize=48&fontAlignY=38&desc=web%20%E2%80%A2%20mobile%20%E2%80%A2%20linux%20%E2%80%A2%20security%20(learning)&descColor=D8DEE9&descSize=18&descAlignY=58" alt="LeonardoDavinci67 banner" width="100%" />
 
 <!-- ═════════ ANIMATED TYPING HEADER ═════════ -->
 <a href="https://github.com/LeonardoDavinci67">
