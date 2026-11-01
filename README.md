@@ -7,7 +7,7 @@
 
 <!-- ═════════ ANIMATED TYPING HEADER ═════════ -->
 <a href="https://github.com/LeonardoDavinci67">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=88C0D0&background=2E3440&center=true&vCenter=true&width=640&height=48&lines=%24+whoami+%E2%86%92+LeonardoDavinci67;Building+websites+with+HTML%2C+CSS+%26+JavaScript;Developing+mobile+apps+with+Flutter;Linux+user+who+loves+tinkering+with+systems;Still+learning+cybersecurity%2C+one+step+at+a+time" alt="Typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=88C0D0&background=2E3440&center=true&vCenter=true&width=640&height=48&lines=%24+whoami+%E2%86%92+leirdo;Building+websites+with+HTML%2C+CSS+%26+JavaScript;Developing+mobile+apps+with+Flutter;Linux+user+who+loves+tinkering+with+systems;Still+learning+cybersecurity%2C+one+step+at+a+time" alt="Typing header" />
 </a>
 
 <br/>
