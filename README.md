@@ -27,7 +27,7 @@ leonardo@nordic:~$ cat about.txt
 
 ```yaml
 username : LeonardoDavinci67
-focus    : Web (HTML/CSS/JS) & Mobile (Flutter)
+focus    : Mobile (Flutter)
 system   : Linux enthusiast
 currently_learning:
   - Cybersecurity (hands-on, using tools)
